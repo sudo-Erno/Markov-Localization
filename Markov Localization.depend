@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1625533993 source:c:\users\erno\documents\programas atom\c++\markov localization\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	"help_functions.h"
+
+1625520301 c:\users\erno\documents\programas atom\c++\markov localization\help_functions.h
+	<math.h>
+	<iostream>
+	<vector>
+
